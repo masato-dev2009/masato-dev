@@ -55,22 +55,25 @@ https://github.com/otuq/post-app
 
 投稿作成・検索・ページネーション機能
 
-![Home](public/screenshots/home.png)
+## Screenshots
+
+![Home](https://raw.githubusercontent.com/otuq/post-app/main/public/screenshots/home.png)
+
 
 ### Post Detail
 
 投稿詳細表示・編集・削除
 
-![Detail](public/screenshots/detail.png)
+![MyPosts](https://raw.githubusercontent.com/otuq/post-app/main/public/screenshots/myposts.png)
 
 ### My Posts
 
 ログインユーザー専用の投稿管理画面
 
-![My Posts](public/screenshots/myposts.png)
+![My Posts](https://raw.githubusercontent.com/otuq/post-app/main/public/screenshots/myposts.png)
 
 ### Dark Mode
 
 ダークモード対応
 
-![Dark](public/screenshots/dark.png)
+![Dark](https://raw.githubusercontent.com/otuq/post-app/main/public/screenshots/dark.png)
