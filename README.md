@@ -34,7 +34,7 @@ https://github.com/masato-dev2009/salon-app
 
 ### Post App
 
-![Home](public/screenshots/home.png)
+<img width="1440" height="900" alt="スクリーンショット 2026-07-30 18 25 52" src="https://github.com/user-attachments/assets/26bdb7dd-b2bf-4674-a6ec-32e6d8ea4761" />
 
 認証機能付き投稿管理アプリ
 
